@@ -1,6 +1,7 @@
 # medical-insurance-cost-analysis
 
-Exploratory analysis of how age, BMI, and sex are associated with estimated medical insurance costs. This project explores how demographic and lifestyle variables such as age, BMI, and sex are associated with estimated medical insurance costs using a simplified linear model.
+This project presents an exploratory analysis of how age, BMI, and sex are associated with estimated medical insurance costs using a simplified linear model.
+
 
 ## Key Concepts
 - Exploratory data analysis (EDA)
